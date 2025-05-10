@@ -1,0 +1,2 @@
+This was a milestone project where I prove my mastery of the turtle module, showing a good understanding of classes and modules.
+The project laid out was a much more simple version of the game, I myself  roads, lane speed, lane directions, a high score count and the most cumbersome task I set for myself was to make the number of roads(car lanes) increase in the first levels of the game, afterwards the overall speed of the cars would increase instead.
