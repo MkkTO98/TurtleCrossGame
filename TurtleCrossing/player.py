@@ -18,7 +18,7 @@ class Animal(Turtle):
             self.sety(self.ycor()+50)
 
     def move_backwards(self):
-        if self.alive:
+        if self.alive and self.ycor() - 50 >= -self.height/2 +35:
             self.setheading(270)
             self.sety(self.ycor()-50)
 
